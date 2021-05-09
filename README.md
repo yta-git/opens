@@ -7,4 +7,5 @@
   - [youtube説明動画](https://www.youtube.com/watch?v=jSZt6sEBAZs)
   - [利用例(LED操作)](https://www.youtube.com/watch?v=k3hNK1m2LFg)
   - [利用例(ゲーム)](https://www.youtube.com/watch?v=fRyMS6CUI3Y)
+  - [IEEJ.pdf](/IEEJ.pdf) ... 同じネタで電気学会東海支部で招待公演させていただいた時のスライド
 - [18_yukawa.pdf](/18_yukawa.pdf) ... NICT 多言語音声翻訳アイデアコンテストで発表に使ったスライド． 優秀賞．
